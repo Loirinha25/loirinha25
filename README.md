@@ -1,16 +1,16 @@
-## Hi there 👋
+*Boas vindas ao meu perfil!* 🌊⛱💙
 
-<!--
-**Loirinha25/loirinha25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Meu nome é Julia Fernandes*
 
-Here are some ideas to get you started:
+*- Estou estudando no Alura*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*- Estou me desenvolvendo na linguagem JavaScript*
+
+*- Utilizo esse espaço pra minha orgazização e compartilhhamento dos meus projetos desenvolvidos*
+
+*entrar em contato comigo*
+
+  insta: @fernandes_m08
+
+![image](https://github.com/user-attachments/assets/6bd5220c-1d18-4924-94f2-427d6afeefe8)
+
